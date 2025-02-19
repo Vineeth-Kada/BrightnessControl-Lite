@@ -1,1 +1,1 @@
-This is a minimal version of MonitorControl[https://github.com/MonitorControl/MonitorControl/tree/main] with only Brightness control for now, can very easily add other features. Implemented this version to remove 3rd party dependencies for added security.
+This is a minimal version of [MonitorControl](https://github.com/MonitorControl/MonitorControl/tree/main) with only Brightness control for now, can very easily add other features. Implemented this version to remove 3rd party dependencies for added security.
